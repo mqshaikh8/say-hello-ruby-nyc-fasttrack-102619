@@ -1,4 +1,5 @@
 def say_hello(Name)
   puts "Hello #{Name} !"
 end
-say_hello(Gabriella)
+Name = "Mohammed"
+say_hello(Name)
