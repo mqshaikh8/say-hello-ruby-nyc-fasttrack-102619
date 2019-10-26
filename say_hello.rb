@@ -1,4 +1,4 @@
 def say_hello(name)
-  puts "Hello #{Name} !"
+  puts "Hello #{name} !"
 end
 say_hello("Mohammed")
